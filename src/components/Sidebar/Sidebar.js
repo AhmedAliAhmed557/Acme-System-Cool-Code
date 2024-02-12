@@ -37,8 +37,6 @@ function Sidebar() {
 	console.log(allData[0].name);
 	return (
 		<div className='sidebar'>
-			hhhhhh <br />
-			<div>{true}</div>
 			<div className='container'>
 				<div className='logo'>
 					<CategorySvg svg={logo} />
